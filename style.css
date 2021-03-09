@@ -1,0 +1,41 @@
+ .navbar{
+        border: 1px  rgb(0, 255, 242);
+  background-color: rgb(0, 255, 242);    
+  text-align: center;
+  margin-bottom: 70px;
+        }
+
+        .column1{
+           
+            float: left;
+  width: 60%;
+  padding: 5px;
+  height: 600px;
+   
+        }
+        
+        .column2{
+            border: 1px outset rgb(0, 255, 242);
+            padding: 5px;
+            margin-top:20px;
+            margin-right:20px;
+            float:right;
+            text-align: center;
+            font-size: 30px;
+            
+        }
+        
+        .d1{
+           
+            height: 150px;
+        }
+
+        .btn
+        {
+            float:bottom;
+        }
+
+        td{
+            text-align: left;
+            padding:30px;
+        }
