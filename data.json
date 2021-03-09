@@ -1,0 +1,20 @@
+{
+ 
+ "data":[
+{
+     "name":"blue jacket",
+     "price" : "2500",
+     "image":"i2.jpg"
+},
+
+{
+    "name":"black jacket",
+    "price" : "2500",
+    "image":"i2.jpg"
+}  
+
+
+
+
+ ]
+    }
