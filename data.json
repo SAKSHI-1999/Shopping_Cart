@@ -1,20 +1,18 @@
-{
+[
  
- "data":[
-{
-     "name":"blue jacket",
+{ 
+     "id": 1,
+     "name":"jacket",
      "price" : "2500",
-     "image":"i2.jpg"
+     "image":"i2.jpg",
+     "quantity":1
 },
 
 {
-    "name":"black jacket",
-    "price" : "2500",
-    "image":"i2.jpg"
+    "id": 2,
+    "name":"purse",
+    "price" : "1000",
+    "image":"i1.jpg",
+    "quantity":1
 }  
-
-
-
-
- ]
-    }
+]
