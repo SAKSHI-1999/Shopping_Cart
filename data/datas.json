@@ -1,0 +1,33 @@
+[
+ 
+{ 
+     "id": 1,
+     "name":"jacket",
+     "price" : "2500",
+     "image":"/assets/p2.jpg",
+     "quantity":1
+},
+
+{
+    "id": 2,
+    "name":"purse",
+    "price" : "1000",
+    "image":"/assets/p1.jpg",
+    "quantity":1
+},
+{ 
+    "id": 3,
+    "name":"dress",
+    "price" : "1765",
+    "image":"/assets/p3.jpg",
+    "quantity":1
+},
+
+{
+   "id": 4,
+   "name":"phone",
+   "price" : "6709",
+   "image":"/assets/p4.jpg",
+   "quantity":1
+}  
+]
