@@ -1,0 +1,30 @@
+.navbar{
+    
+    background-color: rgb(0, 255, 242);    
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 70px;
+    height: 40px;
+    
+          }
+    #cartbutton
+    {
+  
+        float: right;
+        font-size:30px;
+        margin-right: 2px;
+    }
+    .items
+    {
+      width:40%;
+      float:left;
+      margin:50px;
+      text-align: center;
+      border-style: solid;
+      border-color: rgb(0, 247, 255);
+      border-width: 7px;
+    }
+    
+  body{
+  margin:0px;
+  }
